@@ -22,7 +22,7 @@ La **Pokémon App** es una aplicación móvil diseñada para interactuar con el 
   ## Instrucciones de uso
 
 1. **Clonar el repositorio**:
-   git clone https://github.com/josepareja/pokemon-app.git
+   git clone https://github.com/josepareja/pokemonapp.git
 
 ## Conclusiones
    Este proyecto me ha dado la oportunidad de trabajar con Firebase, lo que me ha permitido aprender sobre la integración de bases de datos en tiempo real y la autenticación segura de usuarios. Uno de los mayores retos fue gestionar la comunicación entre la aplicación y Firebase para almacenar y recuperar la información de los Pokémon capturados. Además, he podido profundizar en el uso de RecyclerView, lo que me ha ayudado a manejar grandes listas de datos de forma más eficiente y mejorar la experiencia de usuario.
