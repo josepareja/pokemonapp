@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">PokemonApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="espanol">Español</string>
+    <string name="expandir_opciones_de_idioma">Expandir opciones de idioma</string>
+    <string name="eliminar_mis_pokemon">Eliminar mis pokemon</string>
+    <string name="activar">Activar</string>
+    <string name="acerca_de">Acerca de</string>
+    <string name="cerrar_sesi_n">Cerrar sesión</string>
+    <string name="cerrar_sesi_nn">Cerrar sesión</string>
+    <string name="ver_m_s_informaci_n">Ver más información</string>
+    <string name="idioma">Idioma</string>
+    <string name="ajustes">Ajustes</string>
+    <string name="Cambiar_idioma">Cambiar idioma</string>
+    <string name="nombre">Nombre</string>
+    <string name="tipos">Tipos</string>
+    <string name="eliminar_pok_mon">Eliminar Pokémon</string>
+    <string name="nombre_del_pok_mon">Nombre del Pokémon</string>
+    <string name="altura">"Altura: "</string>
+    <string name="peso">"Peso: "</string>
+    <string name="pokedex">Pokedex</string>
+    <string name="ajustesNav">Ajustes</string>
+    <string name="mis_pok_mon">Mis Pokémon</string>
+    <string name="pokemon_capturados">Pokemon Capturados</string>
+</resources>

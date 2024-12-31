@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "931043056918",
+    "project_id": "apppokemon-ce112",
+    "storage_bucket": "apppokemon-ce112.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931043056918:android:3fde06eabbc06146444437",
+        "android_client_info": {
+          "package_name": "com.example.pokemonapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931043056918-q4drtcbg1up3l5bo5va7ke7bshepqg17.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pokemonapp",
+            "certificate_hash": "edb4811d211e4dfe62f88b00a64b146149319015"
+          }
+        },
+        {
+          "client_id": "931043056918-448k5f7n256l8iar0oas5qm3oo3tt1oo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6D-eIoOO8FWjli93wRFKbGIXLr6l_3Xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931043056918-448k5f7n256l8iar0oas5qm3oo3tt1oo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

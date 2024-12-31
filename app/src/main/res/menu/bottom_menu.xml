@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mis_pokemon_menu"
+        android:icon="@android:drawable/star_big_on"
+        android:title="@string/mis_pok_mon" />
+    <item
+        android:id="@+id/pokedex_menu"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="@string/pokedex" />
+    <item
+        android:id="@+id/ajustes_menu"
+        android:icon="@android:drawable/ic_menu_manage"
+        android:title="@string/ajustesNav" />
+</menu>

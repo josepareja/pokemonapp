@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colores inspirados en el universo Pokémon -->
+    <color name="pokemon_yellow">#FFCC00</color>
+    <color name="pokemon_red">#FF0000</color>
+    <color name="pokemon_blue">#3B4CCA</color>
+    <color name="pokemon_background">#FFF9AB</color>
+    <color name="colorPrimary">#6200EE</color>
+</resources>

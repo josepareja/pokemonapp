@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/fragment_Pokemon_Capturados">
+
+    <fragment
+        android:id="@+id/fragment_Pokemon_Capturados"
+        android:name="com.example.pokemonapp.Fragment_Pokemon_Capturados"
+        android:label="fragment__pokemon__capturados"
+        tools:layout="@layout/fragment__pokemon__capturados" />
+    <fragment
+        android:id="@+id/fragment_Pokedex"
+        android:name="com.example.pokemonapp.Fragment_Pokedex"
+        android:label="fragment__pokedex"
+        tools:layout="@layout/fragment__pokedex" />
+    <fragment
+        android:id="@+id/fragment_Ajustes"
+        android:name="com.example.pokemonapp.Fragment_Ajustes"
+        android:label="fragment__ajustes"
+        tools:layout="@layout/fragment__ajustes" />
+</navigation>
